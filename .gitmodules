@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dynpred"]
+	path = dynpred
+	url = https://github.com/cran/dynpred
+	shallow = true
+	registered = true
 [submodule "mstate"]
 	path = mstate
 	url = https://github.com/hputter/mstate
