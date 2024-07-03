@@ -5,6 +5,9 @@
 [submodule "dynpred"]
 	path = dynpred
 	url = https://github.com/cran/dynpred
+[submodule "icpack"]
+	path = icpack
+	url = https://github.com/cran/icpack
 [submodule "mstate"]
 	path = mstate
 	url = https://github.com/hputter/mstate
